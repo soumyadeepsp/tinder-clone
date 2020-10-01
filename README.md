@@ -1,3 +1,5 @@
+The project is live at - https://tinder-clone-f1fdd.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
